@@ -6,9 +6,9 @@ Esta plataforma se enfoca en mejorar la actividad "Captura la Bandera" mediante 
 Dependiendo de la pregunta es el alcance de los puntos que se pueden obtener.
 Poder canjear puntos por preguntas más complejas y obtener pistas.
 
--Forma de Juego: Los equipos compiten para resolver tantos desafíos como sea posible en un período de tiempo determinado, generalmente unas pocas horas o días. Los equipos seleccionan un desafío de una categoría y nivel de dificultad específicos y trabajan en resolverlo. Una vez que resuelven el desafío, envían la bandera (un código o cadena secreta) al servidor del CTF para validar su respuesta y ganar puntos.
--Puntos: Cada desafío tiene un valor en puntos asociado. A medida que aumenta la dificultad, los puntos suelen ser más altos. Los equipos o participantes ganan puntos al resolver un desafío correctamente.
--Entrega de Bandera: En un CTF Jeopardy, la "bandera" es la respuesta correcta al desafío. Por ejemplo, en un desafío de criptografía, la bandera podría ser la clave secreta o el mensaje descifrado. Los jugadores deben descubrir la bandera resolviendo el desafío.
+- Forma de Juego: Los equipos compiten para resolver tantos desafíos como sea posible en un período de tiempo determinado, generalmente unas pocas horas o días. Los equipos seleccionan un desafío de una categoría y nivel de dificultad específicos y trabajan en resolverlo. Una vez que resuelven el desafío, envían la bandera (un código o cadena secreta) al servidor del CTF para validar su respuesta y ganar puntos.
+- Puntos: Cada desafío tiene un valor en puntos asociado. A medida que aumenta la dificultad, los puntos suelen ser más altos. Los equipos o participantes ganan puntos al resolver un desafío correctamente.
+- Entrega de Bandera: En un CTF Jeopardy, la "bandera" es la respuesta correcta al desafío. Por ejemplo, en un desafío de criptografía, la bandera podría ser la clave secreta o el mensaje descifrado. Los jugadores deben descubrir la bandera resolviendo el desafío.
 
 
 ## Aspectos a Cubrir y a Tener en Cuenta 
