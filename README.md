@@ -11,7 +11,7 @@ Poder canjear puntos por preguntas más complejas y obtener pistas.
 - Entrega de Bandera: En un CTF Jeopardy, la "bandera" es la respuesta correcta al desafío. Por ejemplo, en un desafío de criptografía, la bandera podría ser la clave secreta o el mensaje descifrado. Los jugadores deben descubrir la bandera resolviendo el desafío.
 - Mismo banco de preguntas: Esto se plantea de esta forma para que los equipos puedan tener una retroalimentacion en grupo. Para que todos los equipos puedan resolver dudas y fortalecer conocimientos. 
 
-## Aspectos a Cubrir y a Tener en Cuenta 
+## Aspectos a Cubrir
 
 - Plantear las preguntas de la manera más efectiva posible.
 - Incluir flags con preguntas y otras que el equipo deba buscar.
