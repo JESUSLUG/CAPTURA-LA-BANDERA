@@ -11,6 +11,11 @@ Poder canjear puntos por preguntas más complejas y obtener pistas.
 - Entrega de Bandera: En un CTF Jeopardy, la "bandera" es la respuesta correcta al desafío. Por ejemplo, en un desafío de criptografía, la bandera podría ser la clave secreta o el mensaje descifrado. Los jugadores deben descubrir la bandera resolviendo el desafío.
 - Mismo banco de preguntas: Esto se plantea de esta forma para que los equipos puedan tener una retroalimentacion en grupo. Para que todos los equipos puedan resolver dudas y fortalecer conocimientos. 
 
+## Formato TimeLine
+- Progresión lógica de habilidades: Al presentar las preguntas en un orden cronológico, se busca estructurar la CTF de manera que los participantes avancen gradualmente desde desafíos más simples hasta desafíos más complejos. Esto facilita la curva de aprendizaje y permite a los jugadores desarrollar sus habilidades de manera progresiva.
+
+- Narrativa y contexto: La presentación de los desafíos en forma de línea de tiempo puede ayudar a crear una narrativa coherente en torno a la CTF. Puedes diseñar una historia que guíe a los participantes a través de diferentes escenarios y desafíos que se relacionen entre sí de manera temática. Esto hace que la experiencia sea más atractiva y envolvente.
+
 ## Aspectos a Cubrir
 
 - Plantear las preguntas de la manera más efectiva posible.
@@ -27,8 +32,5 @@ Poder canjear puntos por preguntas más complejas y obtener pistas.
 - Realizar pruebas exhaustivas de la plataforma antes del evento para garantizar su funcionamiento sin problemas.
 - Fomentar la formación de una comunidad en línea donde los participantes puedan compartir experiencias y consejos.
 
-## Formato TimeLine
-- Progresión lógica de habilidades: Al presentar las preguntas en un orden cronológico, se busca estructurar la CTF de manera que los participantes avancen gradualmente desde desafíos más simples hasta desafíos más complejos. Esto facilita la curva de aprendizaje y permite a los jugadores desarrollar sus habilidades de manera progresiva.
 
-- Narrativa y contexto: La presentación de los desafíos en forma de línea de tiempo puede ayudar a crear una narrativa coherente en torno a la CTF. Puedes diseñar una historia que guíe a los participantes a través de diferentes escenarios y desafíos que se relacionen entre sí de manera temática. Esto hace que la experiencia sea más atractiva y envolvente.
 
