@@ -2,7 +2,7 @@
 
 Esta plataforma se enfoca en mejorar la actividad "Captura la Bandera" mediante la validación de banderas en un entorno de ciberseguridad. Está integrada con MAIA, la plataforma principal para encontrar banderas, y todo el proyecto se aloja en GitHub para facilitar la colaboración abierta y segura.
 
-##Jeopardy
+## Jeopardy
 Dependiendo de la pregunta es el alcance de los puntos que se pueden obtener.
 Poder canjear puntos por preguntas más complejas y obtener pistas.
 
