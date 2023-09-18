@@ -9,7 +9,10 @@ Se trata de competencias en las que los participantes resuelven desafíos de seg
 ## ¿Que es Bug Bounty?
 En el bug bounty, las organizaciones recompensan a los investigadores de seguridad por encontrar y reportar vulnerabilidades en sus sistemas en producción. Esto implica buscar activamente errores y problemas de seguridad en aplicaciones y sistemas en vivo. Bug bounty es una práctica más centrada en la aplicación del mundo real de las habilidades de seguridad.
 
-## Jeopardy
+## Diferencias
+el Bug Bounty se enfoca en la búsqueda de vulnerabilidades en sistemas en producción y ofrece recompensas monetarias, el CTF se enfoca en la resolución de desafíos técnicos en un entorno controlado y no ofrece recompensas financieras en el mismo sentido. Ambos enfoques son valiosos para el desarrollo de habilidades en ciberseguridad, pero tienen objetivos y alcances diferentes.
+
+# Jeopardy
 Dependiendo de la pregunta es el alcance de los puntos que se pueden obtener.
 Poder canjear puntos por preguntas más complejas y obtener pistas.
 
