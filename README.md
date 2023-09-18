@@ -42,5 +42,9 @@ Poder canjear puntos por preguntas más complejas y obtener pistas.
 - Realizar pruebas exhaustivas de la plataforma antes del evento para garantizar su funcionamiento sin problemas.
 - Fomentar la formación de una comunidad en línea donde los participantes puedan compartir experiencias y consejos.
 
+# Hack the box 
+Aunque los usarios puedan crear sus propias maquinas virtuales para los desafios. la plataforma no permite crear sus propios desafios.
+La implementacion de la plataforma MAIA como "el centro de desafios" nos da la necesidad de crear nuestros propios desafioos y alternativas a HackTheBox.
+
 
 
