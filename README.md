@@ -2,6 +2,13 @@
 
 Esta plataforma se enfoca en mejorar la actividad "Captura la Bandera" mediante la validación de banderas en un entorno de ciberseguridad. Está integrada con MAIA, la plataforma principal para encontrar banderas, y todo el proyecto se aloja en GitHub para facilitar la colaboración abierta y segura.
 
+# ¿Cual es la diferencia entre el CTF y el Bug Bounty?
+## ¿Que es CTF?
+Se trata de competencias en las que los participantes resuelven desafíos de seguridad informática diseñados previamente por organizadores. El objetivo es encontrar "banderas" o tokens específicos en sistemas o aplicaciones comprometidas.
+
+## ¿Que es Bug Bounty?
+En el bug bounty, las organizaciones recompensan a los investigadores de seguridad por encontrar y reportar vulnerabilidades en sus sistemas en producción. Esto implica buscar activamente errores y problemas de seguridad en aplicaciones y sistemas en vivo. Bug bounty es una práctica más centrada en la aplicación del mundo real de las habilidades de seguridad.
+
 ## Jeopardy
 Dependiendo de la pregunta es el alcance de los puntos que se pueden obtener.
 Poder canjear puntos por preguntas más complejas y obtener pistas.
