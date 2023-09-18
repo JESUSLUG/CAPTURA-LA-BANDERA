@@ -26,14 +26,14 @@ Poder canjear puntos por preguntas más complejas y obtener pistas.
 
 - Narrativa y contexto: La presentación de los desafíos en forma de línea de tiempo puede ayudar a crear una narrativa coherente en torno a la CTF. Puedes diseñar una historia que guíe a los participantes a través de diferentes escenarios y desafíos que se relacionen entre sí de manera temática. Esto hace que la experiencia sea más atractiva y envolvente.
 
-## Aspectos a Cubrir
+# Aspectos a Cubrir
 
 - Plantear las preguntas de la manera más efectiva posible.
 - Incluir flags con preguntas y otras que el equipo deba buscar.
 - Diseñar la plataforma de manera intuitiva para que los participantes puedan navegar y responder fácilmente a las preguntas.
 - Al terminar el evento, dar una retroalimentacion de todas las preguntas. 
 
-## Aspectos que se deben tomar encuenta en esta clase de eventos
+# Aspectos que se deben tomar encuenta en esta clase de eventos
 
 - ACCESS POINTS.
 - Equipos mas pequeños.
