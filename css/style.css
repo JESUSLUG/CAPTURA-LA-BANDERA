@@ -1,7 +1,7 @@
 body {	
     margin: 0;
     padding: 0;
-    background: rgb(230,230,230);
+    background: rgb(235, 235, 235);
     
     color: rgb(50,50,50);
     font-family: 'Open Sans', sans-serif;
@@ -289,4 +289,25 @@ body {
       margin: 1em 4em 0 4em;
   }
   
-  }
+}
+.menu {
+  background-color: #be7171;
+  overflow: hidden;
+}
+
+.menu a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #3f3f3f;
+}
+
+.menu a.active {
+  background-color: #007acc;
+}
