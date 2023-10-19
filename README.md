@@ -41,7 +41,8 @@ Ahora te toca a ti lograr entrar.
 
 ## bWUgcGFyZWNlIHF1ZSBzdSB1c3VpcyBTU0ggZXMgbGEgcHJpbWVraSBsZXR0YSBkZSB1cyBuYW1vcmUgeSBkZW5hbWUgZGUgc2UgbGEgbGV0dGEgZGUgc2UgbGVuZ3VhZSBmYXZvcml0bw==
 
-## Enigma de seguridad, clave de acceso al abrigo,
+## ....
+Enigma de seguridad, clave de acceso al abrigo,
 Es tu identidad en el juego, donde eres un prodigio.
 En la oficina, labor y deber son tu sino,
 ¿Qué palabra secreta es la que aquí busco en este camino?
