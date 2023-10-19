@@ -49,5 +49,11 @@ Es tu identidad en el juego, donde eres un prodigio.
 En la oficina, labor y deber son tu sino,
 ¿Qué palabra secreta es la que aquí busco en este camino?
 
+## RED RED RED RED
+Un número único en la red, debes obtener,
+Y con él, a un lugar secreto podrás acceder.
+En la vasta red de información navegar,
+Si descifras este enigma, podrás ingresar.
+
 
 
