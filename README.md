@@ -14,6 +14,7 @@ Gracias a nuestro espia dentro de la coorporacion, logramos un puente entre noso
 
 Nuestro agente encubierto en la red ha proporcionado pistas en forma de enigmas. Si es atrapado, la información que descubran será incomprensible y sin valor para ellos.
 Ahora te toca a ti lograr entrar.
+Lo primero que tienes que hacer encontrar una url, no sabemos cual... 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣷⣶⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
